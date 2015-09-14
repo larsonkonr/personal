@@ -17,15 +17,21 @@
 .container {
   width: 350px;
   margin: 100px auto;
-  padding: 20px;
+  padding: 10px;
   background-color: rgba(0,0,0,0.6);
   border-radius: 40px;
   text-align: center;
+  color: white;
 }
 
 .logo {
   max-height: 35px;
   width: auto;
+  filter: invert(100%);
+  -webkit-filter: invert(100%);
+  -moz-filter: invert(100%);
+  -o-filter: invert(100%);
+  -ms-filter: invert(100%);
 }
 
 body {
