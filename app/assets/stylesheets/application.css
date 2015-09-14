@@ -19,3 +19,8 @@
   margin: 200px;
   padding: 20px;
 }
+
+.logo {
+  max-height: 35px;
+  width: auto;
+}
