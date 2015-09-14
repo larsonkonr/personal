@@ -34,6 +34,16 @@
   -ms-filter: invert(100%);
 }
 
+.logo:hover {
+  max-height: 40px;
+  width: auto;
+  filter: invert(75%);
+  -webkit-filter: invert(75%);
+  -moz-filter: invert(75%);
+  -o-filter: invert(75%);
+  -ms-filter: invert(75%);
+}
+
 body {
   background: url('clouds.jpg');
   background-size: cover;
