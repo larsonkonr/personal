@@ -52,8 +52,13 @@ body {
   background-attachment: fixed;
 }
 
-h1 { 
+h1 {
   font-family: ‘Helvetica Neue’, Helvetica;
   font-weight: 100;
   font-size: 60px;
+}
+
+p {
+  font-family: arial, Helvetica;
+  font-weight: 200;
 }
