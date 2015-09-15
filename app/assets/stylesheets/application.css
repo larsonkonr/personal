@@ -59,6 +59,7 @@ h1 {
 }
 
 p {
-  font-family: arial, Helvetica;
+  font-family: 'Lato', Helvetica;
+  font-size: 16px;
   font-weight: 200;
 }
